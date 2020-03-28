@@ -88,7 +88,7 @@ main_folder
                           |0b6f22bf3b586889.txt
                           |0baea327f06f8afb.txt
                           |...
-
+```
 
 ## 2.2 Download multiple classes in a common folder
 This option allows to download more classes, but in a common folder. Also the related notations are mixed together with
